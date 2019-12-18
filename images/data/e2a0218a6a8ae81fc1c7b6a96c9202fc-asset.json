@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e2a0218a6a8ae81fc1c7b6a96c9202fc",
+        "name": "45.konanbus-hino-K-RE101_eye.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/45.konanbus-hino-K-RE101_eye.jpg",
+        "size": {
+            "width": 600,
+            "height": 338
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KopwJ6KZh",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 31.328297334558826,
+                "width": 95.31088250517598,
+                "left": 173.241783126294,
+                "top": 36.26976102941177
+            },
+            "points": [
+                {
+                    "x": 173.50705227743273,
+                    "y": 41.51379633884804
+                },
+                {
+                    "x": 173.241783126294,
+                    "y": 67.5980583639706
+                },
+                {
+                    "x": 268.55266563147,
+                    "y": 64.20343137254902
+                },
+                {
+                    "x": 268.08844461697726,
+                    "y": 36.26976102941177
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

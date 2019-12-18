@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>46.IMG_2575-1.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/46.IMG_2575-1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>148.02120141342755</xmin>
+        <ymin>113.37122997172479</ymin>
+        <xmax>225.8268551236749</xmax>
+        <ymax>162.184849198869</ymax>
+    </bndbox>
+</object>
+</annotation>

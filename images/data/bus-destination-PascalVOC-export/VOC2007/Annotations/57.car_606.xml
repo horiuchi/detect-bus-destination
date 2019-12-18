@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>57.car_606.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/57.car_606.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>88.89751552795032</xmin>
+        <ymin>49.816005277317885</ymin>
+        <xmax>207.84323240165634</xmax>
+        <ymax>101.59807015728478</ymax>
+    </bndbox>
+</object>
+</annotation>

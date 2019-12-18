@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c79e6e55bf72c3a25b671fe10dc589ec",
+        "name": "32.mainimg_miyanodai.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/32.mainimg_miyanodai.jpg",
+        "size": {
+            "width": 400,
+            "height": 150
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "etgDB51Y8",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 13.985885704419891,
+                "width": 61.70095755693582,
+                "left": 213.9471187025535,
+                "top": 23.648998618784532
+            },
+            "points": [
+                {
+                    "x": 213.9471187025535,
+                    "y": 23.648998618784532
+                },
+                {
+                    "x": 214.25228605935126,
+                    "y": 37.634884323204425
+                },
+                {
+                    "x": 275.6480762594893,
+                    "y": 36.931327693370164
+                },
+                {
+                    "x": 275.09489302967563,
+                    "y": 23.755827002762434
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

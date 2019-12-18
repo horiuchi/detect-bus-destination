@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "10e9c955ff234a905cf8af69f33ba0a6",
+        "name": "1.guide_line_b3.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/1.guide_line_b3.jpg",
+        "size": {
+            "width": 640,
+            "height": 427
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3JOZuJAoM",
+            "type": "RECTANGLE",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 48.67812419208893,
+                "width": 246.08005521049,
+                "left": 199.1166321601104,
+                "top": 125.74104026628748
+            },
+            "points": [
+                {
+                    "x": 199.1166321601104,
+                    "y": 125.74104026628748
+                },
+                {
+                    "x": 445.1966873706004,
+                    "y": 125.74104026628748
+                },
+                {
+                    "x": 445.1966873706004,
+                    "y": 174.4191644583764
+                },
+                {
+                    "x": 199.1166321601104,
+                    "y": 174.4191644583764
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

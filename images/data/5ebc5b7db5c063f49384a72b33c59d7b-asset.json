@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5ebc5b7db5c063f49384a72b33c59d7b",
+        "name": "wakabadai_turu21.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/wakabadai_turu21.jpg",
+        "size": {
+            "width": 640,
+            "height": 506
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "adF96ovPd",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 56.68319244816212,
+                "width": 227.45715350223546,
+                "left": 135.46199701937408,
+                "top": 51.509852144203585
+            },
+            "points": [
+                {
+                    "x": 144.06669150521608,
+                    "y": 51.509852144203585
+                },
+                {
+                    "x": 135.46199701937408,
+                    "y": 104.42434908105561
+                },
+                {
+                    "x": 356.8535767511177,
+                    "y": 108.1930445923657
+                },
+                {
+                    "x": 362.91915052160954,
+                    "y": 52.00166411404336
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

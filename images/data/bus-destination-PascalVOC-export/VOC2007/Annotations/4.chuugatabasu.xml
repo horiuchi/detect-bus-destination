@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4.chuugatabasu.JPG</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/4.chuugatabasu.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>117.76501766784453</xmin>
+        <ymin>96.94421536286522</ymin>
+        <xmax>270.7641342756184</xmax>
+        <ymax>161.6259719604147</ymax>
+    </bndbox>
+</object>
+</annotation>

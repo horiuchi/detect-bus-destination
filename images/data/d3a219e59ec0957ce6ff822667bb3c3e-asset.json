@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d3a219e59ec0957ce6ff822667bb3c3e",
+        "name": "3.large_180406_tobustop5_01.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/3.large_180406_tobustop5_01.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "AYNZOtaOM",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 33.676242236024834,
+                "width": 142.5967261904762,
+                "left": 300.88153467908904,
+                "top": 72.7419772256729
+            },
+            "points": [
+                {
+                    "x": 300.88153467908904,
+                    "y": 72.7419772256729
+                },
+                {
+                    "x": 302.08980331262944,
+                    "y": 102.75459368530021
+                },
+                {
+                    "x": 443.47826086956525,
+                    "y": 106.41821946169773
+                },
+                {
+                    "x": 442.3007246376812,
+                    "y": 76.32958074534162
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

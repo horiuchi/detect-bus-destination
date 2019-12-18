@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fd6bdd73e556a3a1546f31261d047a79",
+        "name": "39.nankaibus1.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/39.nankaibus1.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gAXi50i04",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 66.06010610766046,
+                "width": 177.39874482401657,
+                "left": 131.5815864389234,
+                "top": 25.287914078674948
+            },
+            "points": [
+                {
+                    "x": 131.5815864389234,
+                    "y": 49.64738612836439
+                },
+                {
+                    "x": 132.06683488612836,
+                    "y": 91.3480201863354
+                },
+                {
+                    "x": 308.98033126293996,
+                    "y": 71.89117494824016
+                },
+                {
+                    "x": 307.1557971014493,
+                    "y": 25.287914078674948
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

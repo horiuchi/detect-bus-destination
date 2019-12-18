@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>78.bus_hououmau_mae.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/78.bus_hououmau_mae.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>351</width>
+        <height>262</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>104.08155018472907</xmin>
+        <ymin>49.62659048067861</ymin>
+        <xmax>233.040588164145</xmax>
+        <ymax>101.94826519792649</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6.20170602_taka54_color.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/6.20170602_taka54_color.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>768</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>293.16466431095404</xmin>
+        <ymin>284.9604147031103</ymin>
+        <xmax>427.22826855123674</xmax>
+        <ymax>313.2045240339303</ymax>
+    </bndbox>
+</object>
+</annotation>

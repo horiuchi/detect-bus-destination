@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "bb75997b879dbfc7c3a75dcc1fab84c6",
+        "name": "57.car_606.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/57.car_606.jpg",
+        "size": {
+            "width": 600,
+            "height": 375
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nQbynmeqY",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 51.78206487996689,
+                "width": 118.945716873706,
+                "left": 88.89751552795032,
+                "top": 49.816005277317885
+            },
+            "points": [
+                {
+                    "x": 88.89751552795032,
+                    "y": 66.12977286837749
+                },
+                {
+                    "x": 89.6577380952381,
+                    "y": 101.59807015728477
+                },
+                {
+                    "x": 207.84323240165634,
+                    "y": 89.79847889072848
+                },
+                {
+                    "x": 205.99767080745343,
+                    "y": 49.816005277317885
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3d0a6c4390d726fdbe71eac4b861d721",
+        "name": "59.maku92skms.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/59.maku92skms.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "YjqUOXGRe",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 139.2448162111216,
+                "width": 515.6713780918728,
+                "left": 65.10070671378092,
+                "top": 166.8131479736098
+            },
+            "points": [
+                {
+                    "x": 65.10070671378092,
+                    "y": 166.8131479736098
+                },
+                {
+                    "x": 66.79858657243817,
+                    "y": 296.49210650329877
+                },
+                {
+                    "x": 579.1819787985866,
+                    "y": 306.05796418473136
+                },
+                {
+                    "x": 580.7720848056537,
+                    "y": 179.37794533459
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

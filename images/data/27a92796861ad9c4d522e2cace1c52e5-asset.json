@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "27a92796861ad9c4d522e2cace1c52e5",
+        "name": "haneda_kamata31.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/haneda_kamata31.jpg",
+        "size": {
+            "width": 640,
+            "height": 427
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gpfO4BhuO",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 51.34135454369183,
+                "width": 251.33712905452035,
+                "left": 194.93961352657004,
+                "top": 125.5909748254912
+            },
+            "points": [
+                {
+                    "x": 198.15907522429262,
+                    "y": 125.5909748254912
+                },
+                {
+                    "x": 194.93961352657004,
+                    "y": 171.07460250775594
+                },
+                {
+                    "x": 446.2767425810904,
+                    "y": 176.93232936918304
+                },
+                {
+                    "x": 445.200138026225,
+                    "y": 126.1981361491727
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

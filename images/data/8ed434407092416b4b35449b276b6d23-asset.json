@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8ed434407092416b4b35449b276b6d23",
+        "name": "37.bus_jyoukouguti.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/37.bus_jyoukouguti.jpg",
+        "size": {
+            "width": 1132,
+            "height": 551
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "9n9aneJgn",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 56.06473847517731,
+                "width": 176.29518202208422,
+                "left": 117.42839889579021,
+                "top": 46.20364583333333
+            },
+            "points": [
+                {
+                    "x": 119.11292270531402,
+                    "y": 54.31843971631206
+                },
+                {
+                    "x": 117.42839889579021,
+                    "y": 102.26838430851065
+                },
+                {
+                    "x": 290.60782220496895,
+                    "y": 98.83989915780143
+                },
+                {
+                    "x": 293.7235809178744,
+                    "y": 46.20364583333333
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

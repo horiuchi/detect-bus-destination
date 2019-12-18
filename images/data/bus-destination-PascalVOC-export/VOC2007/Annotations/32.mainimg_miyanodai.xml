@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>32.mainimg_miyanodai.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/32.mainimg_miyanodai.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>213.9471187025535</xmin>
+        <ymin>23.648998618784532</ymin>
+        <xmax>275.6480762594893</xmax>
+        <ymax>37.634884323204425</ymax>
+    </bndbox>
+</object>
+</annotation>

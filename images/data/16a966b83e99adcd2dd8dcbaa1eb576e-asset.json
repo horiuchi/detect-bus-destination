@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "16a966b83e99adcd2dd8dcbaa1eb576e",
+        "name": "kanagawadaigaku_hiratuka38.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/kanagawadaigaku_hiratuka38.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8hkgBoDtu",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 90.55799363807729,
+                "width": 282.02517667844523,
+                "left": 141.93242049469964,
+                "top": 16.82816918001885
+            },
+            "points": [
+                {
+                    "x": 145.54991166077738,
+                    "y": 37.88657516493874
+                },
+                {
+                    "x": 141.93242049469964,
+                    "y": 107.38616281809614
+                },
+                {
+                    "x": 419.3286219081272,
+                    "y": 95.20131361922715
+                },
+                {
+                    "x": 423.9575971731449,
+                    "y": 16.82816918001885
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

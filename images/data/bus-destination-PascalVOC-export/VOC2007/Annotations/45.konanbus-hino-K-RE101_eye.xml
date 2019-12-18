@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>45.konanbus-hino-K-RE101_eye.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/45.konanbus-hino-K-RE101_eye.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>338</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>173.241783126294</xmin>
+        <ymin>36.26976102941177</ymin>
+        <xmax>268.55266563146995</xmax>
+        <ymax>67.5980583639706</ymax>
+    </bndbox>
+</object>
+</annotation>

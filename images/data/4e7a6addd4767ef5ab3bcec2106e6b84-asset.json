@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4e7a6addd4767ef5ab3bcec2106e6b84",
+        "name": "23.8.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/23.8.jpg",
+        "size": {
+            "width": 618,
+            "height": 593
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4413ivxLv",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 72.44609669533459,
+                "width": 272.4092732820977,
+                "left": 100.9213452192586,
+                "top": 57.36216570452403
+            },
+            "points": [
+                {
+                    "x": 105.14486324593129,
+                    "y": 64.60175394674835
+                },
+                {
+                    "x": 100.9213452192586,
+                    "y": 129.6554363513195
+                },
+                {
+                    "x": 365.651891670434,
+                    "y": 129.80826239985862
+                },
+                {
+                    "x": 373.33061850135624,
+                    "y": 57.36216570452403
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

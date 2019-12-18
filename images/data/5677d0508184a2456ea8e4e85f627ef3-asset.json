@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "5677d0508184a2456ea8e4e85f627ef3",
+        "name": "12.mainimage_routebus.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/12.mainimage_routebus.jpg",
+        "size": {
+            "width": 480,
+            "height": 330
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XjUdTA7sY",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 36.85476280120482,
+                "width": 154.921066252588,
+                "left": 221.68348861283644,
+                "top": 22.492587537650603
+            },
+            "points": [
+                {
+                    "x": 221.68348861283644,
+                    "y": 22.492587537650603
+                },
+                {
+                    "x": 222.08462732919256,
+                    "y": 56.005624058734945
+                },
+                {
+                    "x": 376.6045548654244,
+                    "y": 59.34735033885542
+                },
+                {
+                    "x": 375.13198757763973,
+                    "y": 26.48272778614458
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

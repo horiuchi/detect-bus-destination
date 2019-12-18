@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "10f61a455b7a34ec76a53da3122d4e99",
+        "name": "36.epson_2003330_1825_8.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/36.epson_2003330_1825_8.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-unTbp4nO",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 99.05690386427898,
+                "width": 178.23498233215548,
+                "left": 67.14840989399293,
+                "top": 9.048067860508954
+            },
+            "points": [
+                {
+                    "x": 69.46996466431095,
+                    "y": 60.616753063147975
+                },
+                {
+                    "x": 67.14840989399293,
+                    "y": 108.10497172478793
+                },
+                {
+                    "x": 240.30035335689047,
+                    "y": 70.45652686145147
+                },
+                {
+                    "x": 245.3833922261484,
+                    "y": 9.048067860508954
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

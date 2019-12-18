@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>kanagawadaigaku_hiratuka38.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/kanagawadaigaku_hiratuka38.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>141.93242049469964</xmin>
+        <ymin>16.82816918001885</ymin>
+        <xmax>423.9575971731449</xmax>
+        <ymax>107.38616281809614</ymax>
+    </bndbox>
+</object>
+</annotation>

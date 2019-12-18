@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "82cd5dbe7f891a05932b2c068c9acb8b",
+        "name": "yokohama_102.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/yokohama_102.jpg",
+        "size": {
+            "width": 800,
+            "height": 450
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3rpbFaqH9",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 99.17513420245399,
+                "width": 279.1429434092478,
+                "left": 174.92451690821255,
+                "top": 26.720906825153374
+            },
+            "points": [
+                {
+                    "x": 174.92451690821255,
+                    "y": 53.75023964723927
+                },
+                {
+                    "x": 177.04882677708764,
+                    "y": 125.89604102760737
+                },
+                {
+                    "x": 454.0674603174603,
+                    "y": 102.17527799079755
+                },
+                {
+                    "x": 449.4953416149068,
+                    "y": 26.720906825153374
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

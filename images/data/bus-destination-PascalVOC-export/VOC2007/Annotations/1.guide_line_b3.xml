@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1.guide_line_b3.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/1.guide_line_b3.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>199.1166321601104</xmin>
+        <ymin>125.74104026628748</ymin>
+        <xmax>445.19668737060044</xmax>
+        <ymax>174.41916445837643</ymax>
+    </bndbox>
+</object>
+</annotation>

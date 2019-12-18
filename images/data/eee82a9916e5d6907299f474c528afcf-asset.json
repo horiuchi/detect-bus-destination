@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "eee82a9916e5d6907299f474c528afcf",
+        "name": "74.OdakyuBus-ForShinkojiPark.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/74.OdakyuBus-ForShinkojiPark.jpg",
+        "size": {
+            "width": 640,
+            "height": 480
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "o6so0LchY",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 50.63737040527804,
+                "width": 205.70848056537102,
+                "left": 305.4257950530035,
+                "top": 56.739514608859565
+            },
+            "points": [
+                {
+                    "x": 305.4257950530035,
+                    "y": 56.739514608859565
+                },
+                {
+                    "x": 306.52650176678446,
+                    "y": 104.66246465598492
+                },
+                {
+                    "x": 511.13427561837455,
+                    "y": 107.3768850141376
+                },
+                {
+                    "x": 511.0388692579505,
+                    "y": 58.67990103675778
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

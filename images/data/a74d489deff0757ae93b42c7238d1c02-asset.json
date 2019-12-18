@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a74d489deff0757ae93b42c7238d1c02",
+        "name": "6.rosenbus.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/6.rosenbus.jpg",
+        "size": {
+            "width": 600,
+            "height": 402
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "c62maW_ZH",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 50.094747682801234,
+                "width": 108.45141045548655,
+                "left": 94.90650879917185,
+                "top": 77.2089179969104
+            },
+            "points": [
+                {
+                    "x": 95.87538819875778,
+                    "y": 92.21179035787847
+                },
+                {
+                    "x": 94.90650879917185,
+                    "y": 127.30366567971163
+                },
+                {
+                    "x": 203.35791925465838,
+                    "y": 115.75354016477857
+                },
+                {
+                    "x": 203.16543737060042,
+                    "y": 77.2089179969104
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

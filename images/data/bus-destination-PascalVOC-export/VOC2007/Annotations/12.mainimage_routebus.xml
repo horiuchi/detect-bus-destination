@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>12.mainimage_routebus.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/12.mainimage_routebus.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>330</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>221.68348861283644</xmin>
+        <ymin>22.492587537650603</ymin>
+        <xmax>376.60455486542446</xmax>
+        <ymax>59.34735033885542</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "60a6da1ab215688503299a1d960611d8",
+        "name": "4.chuugatabasu.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/4.chuugatabasu.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XOeXwLI1U",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 63.19068096135722,
+                "width": 150.839222614841,
+                "left": 118.53577738515901,
+                "top": 96.85143732327992
+            },
+            "points": [
+                {
+                    "x": 121.23012367491167,
+                    "y": 119.42079995287466
+                },
+                {
+                    "x": 118.53577738515901,
+                    "y": 160.04211828463716
+                },
+                {
+                    "x": 269.375,
+                    "y": 147.79099905749294
+                },
+                {
+                    "x": 269.2999116607774,
+                    "y": 96.85143732327992
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

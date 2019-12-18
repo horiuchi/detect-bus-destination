@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>haneda_kamata31.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/haneda_kamata31.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>194.93961352657004</xmin>
+        <ymin>125.5909748254912</ymin>
+        <xmax>446.2767425810904</xmax>
+        <ymax>176.93232936918304</ymax>
+    </bndbox>
+</object>
+</annotation>

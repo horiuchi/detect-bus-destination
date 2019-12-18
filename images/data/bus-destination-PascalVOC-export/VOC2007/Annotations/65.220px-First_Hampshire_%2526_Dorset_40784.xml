@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>65.220px-First_Hampshire_%2526_Dorset_40784.JPG</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/65.220px-First_Hampshire_%2526_Dorset_40784.JPG</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>220</width>
+        <height>132</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.954418995859214</xmin>
+        <ymin>14.385284810126583</ymin>
+        <xmax>60.71374654934438</xmax>
+        <ymax>30.372626582278482</ymax>
+    </bndbox>
+</object>
+</annotation>

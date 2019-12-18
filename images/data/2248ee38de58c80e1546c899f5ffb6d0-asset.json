@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2248ee38de58c80e1546c899f5ffb6d0",
+        "name": "78.bus_hououmau_mae.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/78.bus_hououmau_mae.jpg",
+        "size": {
+            "width": 351,
+            "height": 262
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SmZYVyL1I",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 52.32167471724788,
+                "width": 128.9590379794159,
+                "left": 104.08155018472907,
+                "top": 49.62659048067861
+            },
+            "points": [
+                {
+                    "x": 104.08155018472907,
+                    "y": 73.37304135249765
+                },
+                {
+                    "x": 105.07248141713582,
+                    "y": 101.94826519792649
+                },
+                {
+                    "x": 232.1471097598522,
+                    "y": 87.6924849787936
+                },
+                {
+                    "x": 233.04058816414496,
+                    "y": 49.62659048067861
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>20.gaikan_yellow.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/20.gaikan_yellow.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>316</width>
+        <height>237</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>34.43426457597173</xmin>
+        <ymin>60.49513651625824</ymin>
+        <xmax>96.86746908127208</xmax>
+        <ymax>82.23572617224316</ymax>
+    </bndbox>
+</object>
+</annotation>

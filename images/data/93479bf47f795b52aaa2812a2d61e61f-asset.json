@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "93479bf47f795b52aaa2812a2d61e61f",
+        "name": "34.2019new_bus.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/34.2019new_bus.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kOlG35Xhz",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 37.55337732919255,
+                "width": 70.59070910973085,
+                "left": 145.88024068322983,
+                "top": 73.86937111801242
+            },
+            "points": [
+                {
+                    "x": 145.88024068322983,
+                    "y": 91.81547619047619
+                },
+                {
+                    "x": 146.36872412008282,
+                    "y": 111.42274844720498
+                },
+                {
+                    "x": 215.10416666666669,
+                    "y": 96.47709627329193
+                },
+                {
+                    "x": 216.47094979296068,
+                    "y": 73.86937111801242
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6.rosenbus.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/6.rosenbus.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>402</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>94.90650879917185</xmin>
+        <ymin>77.2089179969104</ymin>
+        <xmax>203.35791925465838</xmax>
+        <ymax>127.30366567971163</ymax>
+    </bndbox>
+</object>
+</annotation>

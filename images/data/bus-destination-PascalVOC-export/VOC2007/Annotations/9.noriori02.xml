@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9.noriori02.jpg</filename>
+    <path>bus-destination-PascalVOC-export/Annotations/9.noriori02.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>250</width>
+        <height>180</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>destination</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>74.12102635438234</xmin>
+        <ymin>12.140535115052732</ymin>
+        <xmax>150.1385653899241</xmax>
+        <ymax>37.53527984180249</ymax>
+    </bndbox>
+</object>
+</annotation>

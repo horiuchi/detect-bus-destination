@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "7d219a9c8c41576e681de29791d24add",
+        "name": "odawara_hiratuka44.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/odawara_hiratuka44.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tF4nqSfFX",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 67.98863100848257,
+                "width": 213.75220848056537,
+                "left": 126.03136042402828,
+                "top": 70.47154806786051
+            },
+            "points": [
+                {
+                    "x": 129.05697879858658,
+                    "y": 70.47154806786051
+                },
+                {
+                    "x": 126.03136042402828,
+                    "y": 123.43455466541
+                },
+                {
+                    "x": 334.2292402826855,
+                    "y": 138.46017907634308
+                },
+                {
+                    "x": 339.78356890459366,
+                    "y": 79.9349081055608
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

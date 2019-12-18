@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "JPG",
+        "id": "a42f64e20f496e2f76b388ddb7f3a626",
+        "name": "65.220px-First_Hampshire_%2526_Dorset_40784.JPG",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/65.220px-First_Hampshire_%2526_Dorset_40784.JPG",
+        "size": {
+            "width": 220,
+            "height": 132
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "55KTTFbe6",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 15.987341772151899,
+                "width": 43.759327553485164,
+                "left": 16.954418995859214,
+                "top": 14.385284810126583
+            },
+            "points": [
+                {
+                    "x": 16.954418995859214,
+                    "y": 19.726661392405063
+                },
+                {
+                    "x": 17.567072118702555,
+                    "y": 30.372626582278482
+                },
+                {
+                    "x": 60.71374654934438,
+                    "y": 27.480617088607595
+                },
+                {
+                    "x": 60.40415804002761,
+                    "y": 14.385284810126583
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

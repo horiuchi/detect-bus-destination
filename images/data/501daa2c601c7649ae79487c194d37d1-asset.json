@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "501daa2c601c7649ae79487c194d37d1",
+        "name": "38.img_norikata02.jpg",
+        "path": "file:/Users/horiuchihiroki/work/uie/detect-bus-destination/images/original/38.img_norikata02.jpg",
+        "size": {
+            "width": 600,
+            "height": 400
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "UBzeCUpcy",
+            "type": "POLYGON",
+            "tags": [
+                "destination"
+            ],
+            "boundingBox": {
+                "height": 118.53810817805383,
+                "width": 366.8591485507247,
+                "left": 144.1592261904762,
+                "top": 134.14531573498965
+            },
+            "points": [
+                {
+                    "x": 144.3064182194617,
+                    "y": 134.14531573498965
+                },
+                {
+                    "x": 144.1592261904762,
+                    "y": 228.07162267080747
+                },
+                {
+                    "x": 511.01837474120083,
+                    "y": 252.6834239130435
+                },
+                {
+                    "x": 504.19092908902695,
+                    "y": 171.5498835403727
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
